@@ -23,15 +23,15 @@ You can find selected projects, experiments, and technical writing at [mcshinsky
 
 ### Selected GitHub repositories
 
-- [react-starter](https://github.com/michaelmcshinsky/react-starter) — A personal React starter kit with Storybook, testing, and build-time environment config — no Create React App.
-- [surgejs-sdk](https://github.com/michaelmcshinsky/surgejs-sdk) — TypeScript API library for Surge.sh public endpoints.
-- [slipstream-ui](https://github.com/michaelmcshinsky/slipstream-ui) — React component library built with Tailwind CSS.
-- [adonis-mix-react](https://github.com/michaelmcshinsky/adonis-mix-react) — Fullstack AdonisJS and React monorepo example.
-- [express-react-passport-jwt](https://github.com/michaelmcshinsky/express-react-passport-jwt) — Express, React, and Passport JWT authentication example.
+- [react-starter](https://github.com/michaelmcshinsky/react-starter) — Vite + React 19 + TypeScript starter with Tailwind CSS, TanStack Query, Vitest, and Storybook.
+- [slipstream-ui](https://github.com/michaelmcshinsky/slipstream-ui) — React component library built with Tailwind CSS, TypeScript, and Storybook.
+- [surgejs-sdk](https://github.com/michaelmcshinsky/surgejs-sdk) — Typed, zero-dependency TypeScript client for the Surge.sh API.
+- [express-react-passport-jwt](https://github.com/michaelmcshinsky/express-react-passport-jwt) — Full-stack JWT auth reference: httpOnly cookies, refresh-token rotation, layered Express API + React client.
+- [adonis-react-vite](https://github.com/michaelmcshinsky/adonis-react-vite) — AdonisJS 6 + Vite + React 19 fullstack starter with TypeScript throughout.
 
 ## Tools and technologies
 
-JavaScript · TypeScript · React · Node.js · APIs · SQL · Git · CSS · Tailwind CSS
+TypeScript · JavaScript · React · Node.js · Vite · APIs · SQL · Tailwind CSS · Git
 
 ## How I approach engineering
 
