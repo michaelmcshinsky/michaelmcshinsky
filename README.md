@@ -1,13 +1,12 @@
 # Michael McShinsky
 
-Software engineer focused on reliable systems, developer tools, APIs, and practical automation.
+Software engineer focused on developer tools, APIs, and practical automation.
 
 I enjoy turning complex requirements into software that is understandable, maintainable, and useful in practice. My experience spans full-stack applications, developer platforms, integrations, technical writing, and operational process improvement.
 
 ## What I work on
 
-- Full-stack web applications
-- TypeScript and JavaScript systems
+- Full-stack web applications (React, Node.js)
 - APIs, SDKs, and integrations
 - Developer experience and reusable tooling
 - Practical automation and workflow improvement
@@ -22,9 +21,17 @@ You can find selected projects, experiments, and technical writing at [mcshinsky
 - [DEV Community articles](https://dev.to/mikemcshinsky)
 - [Stack Overflow answers](https://stackoverflow.com/users/2646323/michael-mcshinsky)
 
+### Selected GitHub repositories
+
+- [react-starter](https://github.com/michaelmcshinsky/react-starter) — A personal React starter kit with Storybook, testing, and build-time environment config — no Create React App.
+- [surgejs-sdk](https://github.com/michaelmcshinsky/surgejs-sdk) — TypeScript API library for Surge.sh public endpoints.
+- [slipstream-ui](https://github.com/michaelmcshinsky/slipstream-ui) — React component library built with Tailwind CSS.
+- [adonis-mix-react](https://github.com/michaelmcshinsky/adonis-mix-react) — Fullstack AdonisJS and React monorepo example.
+- [express-react-passport-jwt](https://github.com/michaelmcshinsky/express-react-passport-jwt) — Express, React, and Passport JWT authentication example.
+
 ## Tools and technologies
 
-TypeScript · JavaScript · React · Node.js · APIs · SQL · Git · CSS · Tailwind CSS
+JavaScript · TypeScript · React · Node.js · APIs · SQL · Git · CSS · Tailwind CSS
 
 ## How I approach engineering
 
