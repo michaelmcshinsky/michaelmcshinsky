@@ -26,8 +26,9 @@ You can find selected projects, experiments, and technical writing at [mcshinsky
 - [react-starter](https://github.com/michaelmcshinsky/react-starter) — Vite + React 19 + TypeScript starter with Tailwind CSS, TanStack Query, Vitest, and Storybook.
 - [slipstream-ui](https://github.com/michaelmcshinsky/slipstream-ui) — React component library built with Tailwind CSS, TypeScript, and Storybook.
 - [surgejs-sdk](https://github.com/michaelmcshinsky/surgejs-sdk) — Typed, zero-dependency TypeScript client for the Surge.sh API.
-- [express-react-passport-jwt](https://github.com/michaelmcshinsky/express-react-passport-jwt) — Full-stack JWT auth reference: httpOnly cookies, refresh-token rotation, layered Express API + React client.
+- [express-react-passport-jwt](https://github.com/michaelmcshinsky/express-react-passport-jwt) — Full-stack JWT auth reference: httpOnly cookies, refresh-token rotation, layered Express API + React (TypeScript).
 - [adonis-react-vite](https://github.com/michaelmcshinsky/adonis-react-vite) — AdonisJS 6 + Vite + React 19 fullstack starter with TypeScript throughout.
+- [utah-esports](https://github.com/michaelmcshinsky/utah-esports) — Live tournament and community directory for Utah gamers, built with TypeScript (utahesports.net).
 
 ## Tools and technologies
 
