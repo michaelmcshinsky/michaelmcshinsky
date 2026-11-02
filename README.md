@@ -1,58 +1,102 @@
 # Michael McShinsky
 
-Software engineer focused on developer tools, APIs, and practical automation.
+[![GitHub followers](https://img.shields.io/github/followers/michaelmcshinsky?style=flat-square&logo=github)](https://github.com/michaelmcshinsky)
+[![Website](https://img.shields.io/badge/website-mcshinsky.net-0A84FF?style=flat-square&logo=google-chrome)](https://mcshinsky.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelmcshinsky)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/mikemcshinsky)
+[![DEV](https://img.shields.io/badge/DEV-0A0A0A?style=flat-square&logo=dev.to&logoColor=white)](https://dev.to/mikemcshinsky)
 
-I enjoy turning complex requirements into software that is understandable, maintainable, and useful in practice. My experience spans full-stack applications, developer platforms, integrations, technical writing, and operational process improvement.
+**Senior Software Engineer** — Developer tools, APIs, reliable systems, practical automation.  
+University of Utah Adjunct Instructor (CS) • Former institutional crypto/fintech SDK lead.
 
-## What I work on
+---
 
-- Full-stack web applications (React, Node.js)
-- APIs, SDKs, and integrations
-- Developer experience and reusable tooling
-- Practical automation and workflow improvement
-- Clear technical documentation and maintainable architecture
+## 🎯 What I'm Shipping Now
 
-## Selected work
+| Project | Status | Description |
+|---------|--------|-------------|
+| **[Slipstream UI](https://github.com/michaelmcshinsky/slipstream-ui)** | 🚧 Active | AI-first React component library with machine-readable manifests, MCP server, and shadcn-compatible registry |
+| **[Utah Esports](https://github.com/michaelmcshinsky/utah-esports)** | 🚧 Active | Live tournament/community directory for Utah gamers — freshness-enforced, provenance-tracked (utahesports.net) |
+| **[react-starter](https://github.com/michaelmcshinsky/react-starter)** | ✅ Stable | Production-ready Vite + React 19 + Tailwind 4 + TanStack Query + Vitest + Storybook starter |
+| **[surgejs-sdk](https://github.com/michaelmcshinsky/surgejs-sdk)** | ✅ Stable | Typed, zero-runtime-dep TypeScript SDK for Surge.sh with streaming publish & upload dedupe |
 
-You can find selected projects, experiments, and technical writing at [mcshinsky.net](https://mcshinsky.net).
+---
 
-- [Projects](https://mcshinsky.net/projects/)
-- [Technical writing](https://mcshinsky.net/articles/)
-- [DEV Community articles](https://dev.to/mikemcshinsky)
-- [Stack Overflow answers](https://stackoverflow.com/users/2646323/michael-mcshinsky)
+## 🧠 Architecture Principles
 
-### Selected GitHub repositories
+> These guide every project I build. Full case studies on [mcshinsky.net/work](https://mcshinsky.net/work/).
 
-- [react-starter](https://github.com/michaelmcshinsky/react-starter) — Vite + React 19 + TypeScript starter with Tailwind CSS, TanStack Query, Vitest, and Storybook.
-- [slipstream-ui](https://github.com/michaelmcshinsky/slipstream-ui) — React component library built with Tailwind CSS, TypeScript, and Storybook.
-- [surgejs-sdk](https://github.com/michaelmcshinsky/surgejs-sdk) — Typed, zero-dependency TypeScript client for the Surge.sh API.
-- [express-react-passport-jwt](https://github.com/michaelmcshinsky/express-react-passport-jwt) — Full-stack JWT auth reference: httpOnly cookies, refresh-token rotation, layered Express API + React (TypeScript).
-- [adonis-react-vite](https://github.com/michaelmcshinsky/adonis-react-vite) — AdonisJS 6 + Vite + React 19 fullstack starter with TypeScript throughout.
-- [utah-esports](https://github.com/michaelmcshinsky/utah-esports) — Live tournament and community directory for Utah gamers, built with TypeScript (utahesports.net).
+- **Simplicity as a constraint** — Prefer simple solutions that are easy to operate and change
+- **Explicit assumptions** — Make tradeoffs visible; document why, not just what
+- **Reliability as product** — Security, observability, and graceful degradation are features, not afterthoughts
+- **Automation with guardrails** — Automate repetitive work when the result is safer and clearer
+- **Outcomes over complexity** — Optimize for useful outcomes, not unnecessary cleverness
 
-## Tools and technologies
+---
 
-TypeScript · JavaScript · React · Node.js · Vite · APIs · SQL · Tailwind CSS · Git
+## 📦 Selected Repositories
 
-## How I approach engineering
+### Production-Ready Libraries & SDKs
+| Repo | Stars | Description |
+|------|-------|-------------|
+| **[surgejs-sdk](https://github.com/michaelmcshinsky/surgejs-sdk)** | ![Stars](https://img.shields.io/github/stars/michaelmcshinsky/surgejs-sdk?style=social) | Complete typed Surge.sh API client + streaming publisher with upload dedupe |
+| **[slipstream-ui](https://github.com/michaelmcshinsky/slipstream-ui)** | ![Stars](https://img.shields.io/github/stars/michaelmcshinsky/slipstream-ui?style=social) | AI-native component library: COMPONENT_MANIFEST, MCP server, jest-axe, shadcn registry |
 
-- Prefer simple solutions that are easy to operate and change.
-- Make assumptions explicit and document important tradeoffs.
-- Treat reliability, security, and maintainability as product concerns.
-- Automate repetitive work when the result is safer and clearer.
-- Optimize for useful outcomes, not unnecessary complexity.
+### Starters & Reference Implementations
+| Repo | Stars | Description |
+|------|-------|-------------|
+| **[react-starter](https://github.com/michaelmcshinsky/react-starter)** | ![Stars](https://img.shields.io/github/stars/michaelmcshinsky/react-starter?style=social) | Opinionated React 19 starter: feature folders, Zod env, lazy routes, error boundaries |
+| **[express-react-passport-jwt](https://github.com/michaelmcshinsky/express-react-passport-jwt)** | ![Stars](https://img.shields.io/github/stars/michaelmcshinsky/express-react-passport-jwt?style=social) | Mature JWT auth: httpOnly cookies, refresh rotation, Zod, helmet, Supertest |
+| **[adonis-react-vite](https://github.com/michaelmcshinsky/adonis-react-vite)** | ![Stars](https://img.shields.io/github/stars/michaelmcshinsky/adonis-react-vite?style=social) | Modern Adonis 6 + Vite + React 19 + Tailwind fullstack starter |
 
-## Connect
+### Domain Products
+| Repo | Stars | Description |
+|------|-------|-------------|
+| **[utah-esports](https://github.com/michaelmcshinsky/utah-esports)** | ![Stars](https://img.shields.io/github/stars/michaelmcshinsky/utah-esports?style=social) | Turborepo: Next.js 15, Discord bot, Drizzle/PostGIS, start.gg sync, freshness/provenance |
 
-- [LinkedIn](https://www.linkedin.com/in/michaelmcshinsky)
-- [Website](https://mcshinsky.net)
-- [DEV Community](https://dev.to/mikemcshinsky)
-- [X](https://x.com/mikemcshinsky)
+---
+
+## 🔗 Cross-Linked Technical Writing
+
+| Platform | Focus |
+|----------|-------|
+| **[mcshinsky.net/work](https://mcshinsky.net/work/)** | Architecture case studies, deep-dives, decision records |
+| **[mcshinsky.net/articles](https://mcshinsky.net/articles/)** | Technical tutorials, patterns, tooling guides |
+| **[DEV Community](https://dev.to/mikemcshinsky)** | Practical how-tos, library announcements, DX writeups |
+| **[Stack Overflow](https://stackoverflow.com/users/2646323/michael-mcshinsky)** | 3.5k+ answers on React, TypeScript, Node, APIs |
+
+---
+
+## 🤝 How to Evaluate My Work
+
+1. **Start with the case studies** → [mcshinsky.net/work](https://mcshinsky.net/work/) — real project retrospectives with metrics
+2. **Clone a starter** → `react-starter` or `express-react-passport-jwt` — run `npm run dev` in 2 minutes
+3. **Read the architecture decisions** — Each repo has a `DECISIONS.md` or "Architecture" section explaining *why*
+4. **Check the CI** — All active repos have lint, typecheck, test, and build gates on every PR
+
+---
+
+## 🛠 Tools & Technologies
+
+`TypeScript` `React 19` `Node.js` `Vite` `Next.js 15` `Tailwind CSS 4` `TanStack Query` `Drizzle ORM` `PostgreSQL` `PostGIS` `Vitest` `Storybook` `ESLint 9` `Turborepo` `Docker` `GitHub Actions`
+
+---
+
+## 📫 Connect
+
+- **Website**: [mcshinsky.net](https://mcshinsky.net) — portfolio, writing, case studies
+- **LinkedIn**: [linkedin.com/in/michaelmcshinsky](https://www.linkedin.com/in/michaelmcshinsky)
+- **X/Twitter**: [@mikemcshinsky](https://x.com/mikemcshinsky)
+- **DEV**: [dev.to/mikemcshinsky](https://dev.to/mikemcshinsky)
+- **Email**: See [mcshinsky.net/contact](https://mcshinsky.net/contact)
+
+---
 
 <!--
 Maintenance notes:
 - Keep this README employment-safe and focused on current technical interests.
 - Do not add acquisition, financing, job-search, or employer-transition language.
-- Review links and project status every six months.
-- Add projects only when they are public, non-confidential, and still representative.
+- Review links, stars, and project status quarterly.
+- Add projects only when public, non-confidential, and representative of current quality.
+- Badge services: shields.io for stars/followers; consider adding npm download badges for published packages.
 -->
