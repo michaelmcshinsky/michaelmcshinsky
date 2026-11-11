@@ -37,10 +37,10 @@ University of Utah Adjunct Instructor (CS) • Former institutional crypto/finte
 ## 📦 Selected Repositories
 
 ### Production-Ready Libraries & SDKs
-| Repo | Stars | Description |
-|------|-------|-------------|
-| **[surgejs-sdk](https://github.com/michaelmcshinsky/surgejs-sdk)** | ![Stars](https://img.shields.io/github/stars/michaelmcshinsky/surgejs-sdk?style=social) | Complete typed Surge.sh API client + streaming publisher with upload dedupe |
-| **[slipstream-ui](https://github.com/michaelmcshinsky/slipstream-ui)** | ![Stars](https://img.shields.io/github/stars/michaelmcshinsky/slipstream-ui?style=social) | AI-native component library: COMPONENT_MANIFEST, MCP server, jest-axe, shadcn registry |
+| Repo | Stars | npm | Description |
+|------|-------|-----|-------------|
+| **[surgejs-sdk](https://github.com/michaelmcshinsky/surgejs-sdk)** | ![Stars](https://img.shields.io/github/stars/michaelmcshinsky/surgejs-sdk?style=social) | ![npm](https://img.shields.io/npm/v/surgejs-sdk?style=flat-square) ![dl](https://img.shields.io/npm/dm/surgejs-sdk?style=flat-square&label=dl%2Fmo) | Complete typed Surge.sh API client + streaming publisher with upload dedupe, now with a CLI and a GitHub Action |
+| **[slipstream-ui](https://github.com/michaelmcshinsky/slipstream-ui)** | ![Stars](https://img.shields.io/github/stars/michaelmcshinsky/slipstream-ui?style=social) | ![npm](https://img.shields.io/npm/v/@slipstream-ui/core?style=flat-square&label=core) ![dl](https://img.shields.io/npm/dm/@slipstream-ui/core?style=flat-square&label=dl%2Fmo) | AI-native component library: 8 published packages, COMPONENT_MANIFEST specs, MCP server, shadcn registry, live docs at [slipstreamui.com](https://slipstreamui.com) |
 
 ### Starters & Reference Implementations
 | Repo | Stars | Description |
@@ -73,6 +73,25 @@ University of Utah Adjunct Instructor (CS) • Former institutional crypto/finte
 2. **Clone a starter** → `react-starter` or `express-react-passport-jwt` — run `npm run dev` in 2 minutes
 3. **Read the architecture decisions** — Each repo has a `DECISIONS.md` or "Architecture" section explaining *why*
 4. **Check the CI** — All active repos have lint, typecheck, test, and build gates on every PR
+
+### Signals you can check without trusting me
+
+| Signal | Where |
+|---|---|
+| Published packages | 8 under `@slipstream-ui/*`, plus `surgejs-sdk` |
+| Real installs | `@slipstream-ui/core` and `surgejs-sdk` each report monthly download counts on npm |
+| Release discipline | `slipstream-ui` CI runs 20 gates, including manifest validation and generated-artifact drift checks |
+| Live products | [utahesports.net](https://utahesports.net), [slipstreamui.com/docs](https://slipstreamui.com/docs), [react-starter.mcshinsky.net](https://react-starter.mcshinsky.net) |
+
+---
+
+## 🧭 What I'm Looking For
+
+- **Collaborators** on `slipstream-ui` — component authors, docs, and anyone running it with a coding agent
+- **Design partners** for developer tools: SDKs, deploy pipelines, internal platforms
+- **Consulting** on developer experience, API design, and CI/CD reliability
+
+If any of that matches what you need, [get in touch](https://mcshinsky.net/contact).
 
 ---
 
